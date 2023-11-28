@@ -23,7 +23,7 @@ TorghostNG currently supports:
 
 To install TorghostNG, open your Terminal and enter these commands    
     
-    git clone https://github.com/githacktools/XLR8
+    git clone https://github.com/redroomie/XLR8
     cd XLR8
     sudo python3 XLR8 -s -m wlan0  /  eth0 
     
