@@ -28,7 +28,7 @@ To install TorghostNG, open your Terminal and enter these commands
     sudo python3 XLR8 -s -m wlan0  /  eth0 
     
 you can use `sudo python3 XLR8.py` to run XLR8.
-use `sudo python3 torghostng.py -x` to stop XLR8
+use `sudo python3 XLR8.py -x` to stop XLR8
 
 # Help
     OPTIONS:
