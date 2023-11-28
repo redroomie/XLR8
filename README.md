@@ -1,4 +1,4 @@
-![bhj(1)](https://github.com/redroomie/TorghostNG/assets/142141092/642ecf46-08b1-4fbe-a583-4c167eb1f82b)
+![bhj(1)](https://github.com/redroomie/XLR8/assets/142141092/eca0d14e-535b-4ae4-8b7e-27a30cd72243)
 
 
 
